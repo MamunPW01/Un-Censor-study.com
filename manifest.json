@@ -1,6 +1,6 @@
 {
-  "name": "Getting Started Example",
-  "description": "Build an Extension!",
+  "name": "Un-Censor study.com",
+  "description": "Un-Censor (part of) the lesson on study.com pages.",
   "version": "1.0",
   "manifest_version": 3,
   "background": {
