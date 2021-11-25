@@ -1,5 +1,5 @@
 # Un-Censor study.com
-trash chrome extension that was made in half an hour by a person who's never done javascript before
+This is a Chrome extension.
 
 ## How to install: 
 
